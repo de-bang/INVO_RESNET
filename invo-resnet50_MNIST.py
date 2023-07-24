@@ -24,7 +24,6 @@ from keras.utils.vis_utils import model_to_dot
 from tensorflow.keras.utils import plot_model
 from tensorflow.keras.initializers import glorot_uniform
 import scipy.misc
-import matplotlib.pyplot as plt
 from matplotlib.pyplot import imshow
 %matplotlib inline
 import tensorflow.keras.backend as K
